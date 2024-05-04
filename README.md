@@ -34,7 +34,7 @@
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br><br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> My Statistics
 <p align="center">
@@ -54,29 +54,49 @@
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<h3>Languages:</h3>
+<p>
+	<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-blue.svg?logo=python&logoColor=white"></a>
+	<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+	<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+	<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
+    	<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+	<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Laravel-orange.svg?logo=laravel&logoColor=white"></a>
+	<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/PHP-purple.svg?logo=php&logoColor=white"></a>
+	<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/MySQL-blue.svg?logo=MySQL&logoColor=white"></a> 
+</p>
+<h3>Tools:</h3>
+<p>
+	<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+	<a href="#"><img alt="Github" src="https://img.shields.io/badge/GitHub-purple.svg?logo=github&logoColor=white"></a>
+	<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-blue.svg?logo=docker&logoColor=white"></a>
+	<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+	<a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=green&labelColor=green"></a>
+	<a href="#"><img alt="Sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important"></a>
+	<a href="#"><img alt="Notepad" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>	
+	<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
+	<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-orange.svg?logo=postman&logoColor=white"></a>	
+	<a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp-%23d75224.svg?logo=xampp&logoColor=white"></a>
+	<a href="#"><img alt="Cisco Packet tracer" src="https://img.shields.io/badge/CISCO_Packet_Tracer-%23005365.svg?logo=cisco&logoColor=white"></a><br>
+ 	<a href="#"><img alt="cPanel" src="https://img.shields.io/badge/cPanel-orange.svg?logo=cpanel&logoColor=white"></a>
+	<a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%20%235c44e8.svg?logo=canva&logoColor=white"></a>
+	<a href="#"><img alt="Adobe Ps" src="https://img.shields.io/badge/Photoshop-%20%20%2308253c.svg?logo=adobe%20photoshop&logoColor=white"></a> 	
+ 	<a href="#"><img alt="Adobe Ae" src="https://img.shields.io/badge/After_Effects-%20%20%231e0242.svg?logo=adobe%20after%20effects&logoColor=white"></a>
+ 	<a href="#"><img alt="Adobe Pr" src="https://img.shields.io/badge/Premiere%20Pro-%20%20%231e0242.svg?logo=adobe%20premiere%20pro&logoColor=white"></a>
+	<a href="#"><img alt="MS Office" src="https://img.shields.io/badge/Microsoft%20Office-%20%23da3801.svg?logo=Microsoft&logoColor=white"></a>
+</p>
 <br>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a> 
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a> 
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a> 
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a> 	
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a>
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> </a> 
-	<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/> </a>
-	<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a> 
-</p>
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdobTI0cXB3bDUwOGk5djYxaDM4NXAwMXk2cW0yamtvNmEza3d4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iR7NJTI6f9Yq173Qys/giphy.gif" width="35"><b> Connect with me</b>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Connect with me</b>
 <br>
 <p align="center">
-<a href="https://linkedin.com/in/hasan-chinthaka" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/20424512/hasan-chinthaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
-<a href="https://www.facebook.com/profile.php?id=61552983686212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/hasan-chinthaka" target="blank"><img src="https://img.shields.io/badge/Linkdin-%20%231469c7.svg?logo=linkedin&logoColor=white" alt="linkdin"/></a>
+<a href="https://www.facebook.com/profile.php?id=61552983686212" target="blank"><img src="https://img.shields.io/badge/Facebook-blue.svg?logo=facebook&logoColor=white" alt="facebook"/></a>
+<a href="https://stackoverflow.com/users/20424512/hasan-chinthaka" target="blank"><img src="https://img.shields.io/badge/Stack%20Overflow-%20orange.svg?logo=stack%20overflow&logoColor=white" alt="stack overflow"/></a>
+<a href="https://github.com/HasanChinthaka" target="blank"><img src="https://img.shields.io/badge/GitHub-purple.svg?logo=github&logoColor=white" alt="Github"/></a>
+<a href="mailto:chinthakahasan@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-red.svg?logo=Gmail&logoColor=white" alt="gmail"/></a>
 </p>
