@@ -80,7 +80,7 @@
 	<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
 	<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-orange.svg?logo=postman&logoColor=white"></a>	
 	<a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp-%23d75224.svg?logo=xampp&logoColor=white"></a>
-	<a href="#"><img alt="Cisco Packet tracer" src="https://img.shields.io/badge/CISCO_Packet_Tracer-%23005365.svg?logo=cisco&logoColor=white"></a><br>
+	<a href="#"><img alt="Cisco Packet tracer" src="https://img.shields.io/badge/CISCO_Packet_Tracer-%23005365.svg?logo=cisco&logoColor=white"></a>
  	<a href="#"><img alt="cPanel" src="https://img.shields.io/badge/cPanel-orange.svg?logo=cpanel&logoColor=white"></a>
 	<a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%20%235c44e8.svg?logo=canva&logoColor=white"></a>
 	<a href="#"><img alt="Adobe Ps" src="https://img.shields.io/badge/Photoshop-%20%20%2308253c.svg?logo=adobe%20photoshop&logoColor=white"></a> 	
