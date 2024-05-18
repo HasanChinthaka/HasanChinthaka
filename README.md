@@ -2,7 +2,7 @@
 	<img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
 <div align=center>
-	<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Hasan+Chinthaka+%F0%9F%91%8B;ICT+Student;Back-End+Developer;" alt="Headline" />
+	<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Hasan+Chinthaka+%F0%9F%91%8B;ICT+Student;Laravel+Developer;Back-End+Developer;" alt="Headline" />
 </div>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center">
