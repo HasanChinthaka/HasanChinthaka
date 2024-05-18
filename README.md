@@ -64,9 +64,9 @@
 	<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
 	<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
     	<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-	<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Laravel-orange.svg?logo=laravel&logoColor=white"></a>
-	<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/PHP-purple.svg?logo=php&logoColor=white"></a>
-	<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/MySQL-blue.svg?logo=MySQL&logoColor=white"></a> 
+	<a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-orange.svg?logo=laravel&logoColor=white"></a>
+	<a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-purple.svg?logo=php&logoColor=white"></a>
+	<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue.svg?logo=MySQL&logoColor=white"></a> 
 </p>
 <h3>Tools:</h3>
 <p>
