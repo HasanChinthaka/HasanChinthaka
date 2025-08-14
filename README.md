@@ -2,7 +2,7 @@
 	<img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
 <div align=center>
-	<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Hasan+Chinthaka;ICT+Undergraduate;Laravel+Developer;Back-End+Developer;" alt="Headline" />
+	<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Hasan+Chinthaka;BICT+(Hons)+Graduate;Laravel+Developer;Full+Stack+Developer;React+Native+Developer+(Android)" alt="Headline" />
 </div>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center">
@@ -15,9 +15,9 @@
 <tr border="none">
 <td width="55%" align="left">
   
-- 🌱 I’m currently learning **Laravel | React Native**
+- 🌱 I’m currently learning **NodeJs**
 
-- 🧑‍🎓 I’m an Undergraduate at **Rajarata University of Sri Lanka**
+- 🧑‍🎓 I’m BICT(Hons) Graduated at **Rajarata University of Sri Lanka**
 
 - 💬 Ask me about **Web development**
 
